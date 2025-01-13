@@ -1,0 +1,283 @@
+5/12/24
+Material cubierto
+- Ejercicio 10-14
+- Método de un vatímetro
+- Ejercicios 10-15, 10-17 y 10-19
+Para el próximo día
+- Ejercicios resto de ejercicios tema 10
+
+3/12/24
+Material cubierto
+- Ejercicio 10-4
+- Método dos vatímetros
+- Ejercicios 10-10, 10-11
+Para el próximo día
+- Ejercicios 10-12, 10-13, 10-14
+
+29/11/24
+Material cubierto
+- Ejercicios 10-6, 10-8
+Para el próximo día
+- Ejercicios 10-5, 10-7, 10-9
+
+28/11/24
+Material cubierto
+- Ejercicios 10-2, 10-3
+Para el próximo día
+- Ejercicio 10-4
+
+26/11/24
+Material cubierto
+- Circuitos monofásicos equivalentes
+- Ejercicios 9-6, 9-7, 9-8
+- Potencia instantánea, activa y reactiva en trifásica
+- Ejercicio 10-1
+Para el próximo día
+- Terminar ejercicio 9-6, 9-7, 9-8
+
+22/11/24
+Material cubierto
+- Alternador trifásico
+- Carga trifásica
+- Línea trifásica
+- Circuito trifásico equilibrado
+- Ejercicios 9-3, 9-4
+Para el próximo día
+- Ejercicios 9-1, 9-2, 9-5
+
+21/11/24
+Material cubierto
+- Corregimos ejercicio 8-13
+- Teorema máxima transferencia de potencia
+- Ejercicios 8-24, 8-25
+- Comentamos ejercicios 8-26, 8-27, 8-28
+Para el próximo día
+- Todos los ejercicios del tema 8
+
+19/11/24
+Material cubierto
+- Corregimos ejercicio 8-11
+- Medida de potencias
+- Ejercicios 8-14, 8-15, 8-16, 8-17
+Para el próximo día
+- Terminar ejercicios de diagramas fasoriales de clase
+
+15/11/24
+Material cubierto
+- Corrección del factor de potencia
+- Ejercicios 8-7, 8-8, 8-10
+Para el próximo día
+- Ejercicio 8-9, 8-11, 8-12, 8-13
+
+12/11/24
+Material cubierto
+- Ejercicio 8-3
+- Obtener impedancia en función de potencia
+- Ejercicios 8-5, 8-6
+Para el próximo día
+- Ejercicio 8-3, 8-4
+
+8/11/24
+Material cubierto
+- Potencia instantánea en alterna
+- Potencia activa y reactiva
+- Potencia aparente y compleja
+- Factor de potencia
+- Ejercicio 8-1
+Para el próximo día
+- Ejercicio 8-2
+
+7/11/24
+Material cubierto
+- Ejercicios 7-25, 7-27, 7-28, 7-29
+Para el próximo día
+- Terminar ejercicios 7-25, 7-27, 7-28, 7-29
+
+5/11/24
+Material cubierto
+- Diagrama fasorial
+- Ejercicios 7-22, 7-23
+Para el próximo día
+- Ejercicios 7-22, 7-23
+
+31/10/24
+Material cubierto
+- Ejercicios 7-6, 7-13, 7-17, 7-18, 7-20
+Para el próximo día
+- Terminar todos los ejercicios del tema 7 hasta el 7-21
+
+29/10/24
+Material cubierto
+- Superposición en alterna
+- Bobinas y transofador en alterna
+- Ejercicios 7-9, 7-10, 7-11, 7-12, 7-15, 7-16
+Para el próximo día
+- Ejercicios 7-6, 7-7, 7-13, 7-14
+
+25/10/24
+Material cubierto
+- Ejercicios 7-3, 7-4, 7-5
+- Impedancias serie, paralelo
+- Divisor tensión e intensidad alterna
+- Conversión de fuentes en alterna
+- Métodos de mallas y nudos en alterna
+- Thevenin y Norton en alterna
+Para el próximo día
+- Venir con las pilas cargadas a tope para hacer ejercicios del tema 7
+
+24/10/24
+Material cubierto
+- Ejercicio 7-2
+- Impedancia compleja
+
+22/10/24
+Material cubierto
+- Régimen sinusoidal permanente
+- Concepto de fasor
+- Ejercicio 7-1
+Para el próximo día
+- Ejercicio 7-2
+
+18/10/24
+Material cubierto
+- Signos de bobinas acopladas
+- Ejercicio 6-8
+- Transformador ideal
+- Ejercicios 6-10, 6-11
+Para el próximo día
+- Ejercicios 6-9, 6-11
+
+
+17/10/24
+Material cubierto
+- Ejercicios 6-5, 6-6, 6-7
+- Acoplamiento magnético, terminales correspondientes
+
+15/10/24
+Material cubierto
+- Corregimos ejercicios del tema 5
+- Bobina y condensador
+- Ejercicios 6-1, 6-2, 6-3
+Para el próximo día
+- Ejercicios 6-4
+
+11/10/24
+Material cubierto
+- Ejercicios 5-15, 5-16, 5-17
+- Máxima transferencia de potencia
+- Ejercicios 5-21, 5-22, 5-23
+Para el próximo día
+- Ejercicios 5-18, 5-19, 5-20, 5-24, 5-25, 5-26, 5-27
+
+10/10/24
+Material cubierto
+- Superposición y linealidad
+- Ejercicio 5-4
+- Teorema de Thevenin
+- Ejercicios 5-9, 5-10, 5-11, 5-12
+- Teorema Norton
+- Ejercicio 5-13
+Para el próximo día
+- Ejercicio 5-14
+
+08/10/24
+- Relevos mallas/nudos
+- Si no lo has hecho en clase, te agradecería que respondas a una breve encuesta sobre la actividad en el siguiente link: https://forms.office.com/e/vgrQaG2ahG
+
+04/10/24
+- Corregimos ejercicios del tema 4
+- Teorema de linealidad
+- Ejercicios 5-1, 5-2
+- Teorema superposición
+- Ejercicios 5-3, 5-5
+
+03/10/24
+Material cubierto
+- Ejercicios 4-11, 4-9, 4-12
+Para el próximo día
+- Ejercicios 4-13, 4-14, 4-15, 4-16, 4-17
+
+01/10/24
+Material cubierto
+- Corregimos 4-6
+- Método de nudos
+- Ejercicios 4-7, 4-8 y 4-10
+Para el próximo día
+- Terminar ejercicios mallas
+
+27/09/24
+Material cubierto
+- Método de mallas
+- Ejercicios 4-1, 4-2, 4-3, 4-4, 4-5
+Para el próximo día
+- Ejercicios 4-1, 4-2, 4-3, 4-4, 4-5, 4-6
+
+24/09/24
+Material cubierto
+- Ejercicios 3-5, 3-6
+- Fuentes dependientes
+- Ejercicios 3-8, 3-9, 3-10, 3-11, 3-12, 3-13
+Para el próximo día
+- Todos los ejercicios del tema 3
+
+20/09/24
+Material cubierto
+- Corregimos 2-11, 2-12
+- Ejercicios 3-1, 3-2
+- Fuentes reales de tensión e intensidad
+- Ejercicio 3-3
+- Máxima transferencia de potencia
+- Circuitos equivalentes
+- Transformación de fuentes reales
+Para el próximo día
+- Ejercicio 3-4
+
+19/09/24
+Material cubierto
+- Ejercicios 2-7, 2-8, 2-9, 2-10
+- Transformación estrella-triángulo
+Para el próximo día
+- Ejercicios 2-11, 2-12
+
+17/09/24
+Material cubierto
+- Corregimos ejercicio 2-3
+- Resistencia serie, divisor tensión
+- Resistencia paralelo, divisor intensidad
+- Ejercicios 2-4, 2-5, 2-6
+Para el próximo día
+- Terminar ejercicios 2-4, 2-5 y 2-6
+
+13/09/24
+Material cubierto
+- Potencia y energía
+- Ejercicio 1-2
+- Ley de Ohm
+- Ejercicios 2-1, 2-2
+Para el próximo día
+- Terminar ejercicio 1-2
+- Ejercicios 1-3 y 1-4
+- Ejercicio 2-3
+
+12/09/24
+Material cubierto
+- Presentación de la asignatura
+- Conceptos tensión e intensidad
+- Leyes de Kirchhoff
+- Ejercicio 1-1 (apartados a-e)
+Para el próximo día
+- Hacer cuenta en la aplicación
+- Ejercicios 1-1 (apartados a-e)
+
+
+
+
+
+
+
+
+
+
+
+
+
