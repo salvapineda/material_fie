@@ -10,7 +10,7 @@ Repositorio oficial del curso **Fundamentos de Ingeniería Eléctrica**. Aquí e
 
 ## Recursos adicionales
 
-- [Lista de reproducción en YouTube](https://www.youtube.com/tu_lista_de_reproduccion) con vídeos del curso.
+- [Lista de reproducción en YouTube](https://www.youtube.com/channel/UCcVRTneVHihspO5IjWk17hA/playlists) con vídeos del curso.
 
 ---
 
