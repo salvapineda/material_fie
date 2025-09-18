@@ -1,3 +1,19 @@
+18/09/25
+Material cubierto
+- Fuentes de tensión e intensidad
+- Ejercicios 2-6, 2-7, 2-8, 2-9, 2-10
+Para el próximo día
+- Ejercicios 2-11, 2-12
+
+16/09/25
+Material cubierto
+- Corregimos 2-2
+- Resistencias en serie, divisor tensión
+- Resistencias en paralelo, divisor intensidad
+- Ejercicio 2-4
+Para el próximo día
+- Ejercicios 2-5
+
 15/09/25
 Material cubierto
 - Potencia y energía
