@@ -1,3 +1,11 @@
+29/09/25
+Material cubierto
+- Corregimos 3-10, 3-11, 3-13
+- Método de mallas
+- Ejercicio 4-1
+Para el próximo día
+- Ejercicio 4-4
+
 25/09/25
 Material cubierto
 - Fuentes reales
