@@ -1,3 +1,11 @@
+23/10/25
+Material cubierto
+- Corregimos 6-4
+- Acoplamiento magnético, bobinas acopladas y terminales correspondientes.
+- Ejercicios 6-5, 6-8
+Para el próximo día
+- Ejercicios 6-6 y 6-7
+
 21/10/25
 Material cubierto
 - Parcial temas 1 al 5
