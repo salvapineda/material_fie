@@ -1,3 +1,15 @@
+3/11/25
+Material cubierto
+- Corregimos 7-4
+- Asociación de impedancias
+- Transformación de fuentes
+- Método de mallas en alterna
+- Ejercicios 7-9, 7-10
+- Método de nudos en alterna
+- Ejercicios 7-11, 7-12
+Para el próximo día
+- Ejercicios 7-5, 7-7, 7-8
+
 30/10/25
 Material cubierto
 - Corregimos 7-2
