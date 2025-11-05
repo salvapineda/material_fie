@@ -1,3 +1,166 @@
+3/11/25
+Material cubierto
+- Corregimos 7-4
+- Asociación de impedancias
+- Transformación de fuentes
+- Método de mallas en alterna
+- Ejercicios 7-9, 7-10
+- Método de nudos en alterna
+- Ejercicios 7-11, 7-12
+Para el próximo día
+- Ejercicios 7-5, 7-7, 7-8
+
+30/10/25
+Material cubierto
+- Corregimos 7-2
+- Impedancia compleja
+- Ejercicios 7-3, 7-4
+Para el próximo día
+- Ejercicios 7-3, 7-4
+
+28/10/25
+Material cubierto
+- Señal sinusoidal y concepto de fasor
+- Ejercicio 7-1 y 7-2
+Para el próximo día
+- Ejercicios 7-1, 7-2
+
+27/10/25
+Material cubierto
+- Potencia en bobinas acopladas
+- Transformador ideal
+- Ejercicio 6-10 y 6-11
+Para el próximo día
+- Ejercicios 6-6, 6-7, 6-9, 6-12
+
+23/10/25
+Material cubierto
+- Corregimos 6-4
+- Acoplamiento magnético, bobinas acopladas y terminales correspondientes.
+- Ejercicios 6-5, 6-8
+Para el próximo día
+- Ejercicios 6-6 y 6-7
+
+21/10/25
+Material cubierto
+- Parcial temas 1 al 5
+
+20/10/25
+Material cubierto
+- Bobina
+- Ejercicios 6-1 y 6-2
+- Condensador
+- Ejercicios 6-3 y 6-4
+Para el próximo día
+- Terminar ejercicio 6-4
+
+16/10/25
+Material cubierto
+- Corrección ejercicios tema 5
+
+14/10/25
+Material cubierto
+- Ejercicios 5-11, 5-12
+- Teorema de Norton
+- Ejercicios 5-13, 5-14, 5-15
+- Teorema máxima transferencia potencia
+- Ejercicio 5-21
+Para el próximo día
+- Ejercicios 5-16, 5-17, 5-18, 5-19, 5-22, 5-23, 5-24, 5-25
+
+9/10/25
+Material cubierto
+- Teorema de linealidad
+- Ejercicios 5-1, 5-2
+- Teorema de superposición
+- Ejercicios 5-3, 5-4, 5-5
+- Teorema de superposición con fuentes dependiente no entra
+- Teorema de Thevenin
+- Ejercicios 5-9, 5-10
+Para el próximo día
+- Terminar ejercicios 5-9 y 5-10
+
+7/10/25
+Relevos mallas/nudos
+
+6/10/25
+Material cubierto
+- Método matricial nudos
+- Ejercicios 4-12, 4-15, 4-16, 4-17
+Para el próximo día
+- Terminar ejercicios tema 4
+
+02/10/25
+Material cubierto
+- Corregimos 4-6
+- Método de nudos
+- Ejercicios 4-7, 4-8, 4-9, 4-10, 4-11
+Para el próximo día
+- Terminar ejercicios 4-7, 4-8, 4-9, 4-10, 4-11
+
+30/09/25
+Material cubierto
+- Corregimos 4-4
+- Ejercicios 4-2, 4-3, 4-5
+- Método matricial de mallas
+Para el próximo día
+- Ejercicio 4-6 (método matricial)
+
+29/09/25
+Material cubierto
+- Corregimos 3-10, 3-11, 3-13
+- Método de mallas
+- Ejercicio 4-1
+Para el próximo día
+- Ejercicio 4-4
+
+25/09/25
+Material cubierto
+- Fuentes reales
+- Máxima transferencia de potenia
+- Ejercicios 3-3 y 3-4
+- Conversión y traslación de fuentes
+- Circuitos equivalentes
+- Ejercicios 3-5, 3-6, 3-7
+- Fuentes dependientes
+- Ejercicios 3-8 y 3-9
+Para el próximo día
+- Ejercicios 3-10, 3-11, 3-12, 3-13
+- Terminar los ejercicios del tema 3
+
+22/09/25
+Material cubierto
+- Corregimos 2-5, 2-11, 2-12
+- Transformación estrella-triángulo
+- Ejercicios 3-1, 3-2
+Para el próximo día
+- Terminar ejercicios 3-1, 3-2
+
+18/09/25
+Material cubierto
+- Fuentes de tensión e intensidad
+- Ejercicios 2-6, 2-7, 2-8, 2-9, 2-10
+Para el próximo día
+- Ejercicios 2-11, 2-12
+
+16/09/25
+Material cubierto
+- Corregimos 2-2
+- Resistencias en serie, divisor tensión
+- Resistencias en paralelo, divisor intensidad
+- Ejercicio 2-4
+Para el próximo día
+- Ejercicios 2-5
+
+15/09/25
+Material cubierto
+- Potencia y energía
+- Clases de circuitos
+- Resistencia y ley de Ohm
+Para el próximo día
+- Ejercicios 1-1, 1-2, 1-3 y 1-4
+- Ejercicios 2-1, 2-2 y 2-3
+
 11/09/25
 Material cubierto
 - Presentación de la asignatura
