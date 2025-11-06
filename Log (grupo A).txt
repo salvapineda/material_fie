@@ -1,3 +1,23 @@
+6/11/25
+Material cubierto
+- Reducción impedancia en transformador ideal
+- Ejercicio 7-20
+- Diagrama fasorial
+- Ejercicios 7-22, 7-23, 7-25
+Para el próximo día
+- Ejercicios 7-21
+
+4/11/25
+Material cubierto
+- Teorema superposicion alterna
+- Ejercicio 7-13
+- Teorema Thevenin-Norton alterna
+- Ejercicio 7-15
+- Bobinas acopladas en alterna
+- Ejercicio 7-17, 7-18
+Para el próximo día
+- Ejercicios 7-14, 7-16, 7-19
+
 3/11/25
 Material cubierto
 - Corregimos 7-4
