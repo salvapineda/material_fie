@@ -1,3 +1,14 @@
+17/11/25
+Material cubierto
+- Comentamos resultados 8-3 y 8-4
+- Obtener impedancia con datos de potencia
+- Ejercicio 8-5
+- Teorema Boucherot
+- Corrección del factor de potencia
+- Ejercicio 8-7 y 8-8
+Para el próximo día
+- Ejercicio 8-6, 8-9
+
 13/11/25
 Material cubierto
 - Potencia compleja, reactiva y aparente
