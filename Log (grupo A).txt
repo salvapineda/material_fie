@@ -1,3 +1,11 @@
+24/11/25
+Material cubierto
+- Corregimos 8-21
+- Alternador trifásico
+- Ejercicio 9-3
+Para el próximo día
+- Ejercicios 9-1, 9-2 (resolver con Matlab)
+
 20/11/25
 Material cubierto
 - Comentamos 8-16 y 8-18
