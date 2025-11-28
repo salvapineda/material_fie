@@ -1,3 +1,14 @@
+28/11/25
+Material cubierto
+- Corregimos 9-1, 9-2
+- Carga trifásica
+- Línea trifásica
+- Ejercicio 9-4
+- Monofásico equivalente estrella-estrella
+- Ejercicios 9-6, 9-7, 9-8
+Para el próximo día
+- Ejercicio 9-5
+
 24/11/25
 Material cubierto
 - Corregimos 8-21
