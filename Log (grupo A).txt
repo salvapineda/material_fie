@@ -1,3 +1,11 @@
+1/12/25
+Material cubierto
+- Potencia instantánea en trifásica
+- Potencia activa, reactiva en trifásica
+- Ejercicios 10-1, 10-2, 10-3
+Para el próximo día
+- Ejercicio 10-5
+
 28/11/25
 Material cubierto
 - Corregimos 9-1, 9-2
