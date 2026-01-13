@@ -1,3 +1,151 @@
+2/12/25
+Material cubierto
+- Corregimos ejercicio 10-5
+- Compensación de reactiva en trifásica
+- Ejercicio 10-8
+- Método de dos vatímetros
+- Ejercicios 10-10 y 10-11
+- No se ha cubierto circuitos trifásicos desequilibrados con interruptor ni método de un vatímetro
+
+1/12/25
+Material cubierto
+- Potencia instantánea en trifásica
+- Potencia activa, reactiva en trifásica
+- Ejercicios 10-1, 10-2, 10-3
+Para el próximo día
+- Ejercicio 10-5
+
+28/11/25
+Material cubierto
+- Corregimos 9-1, 9-2
+- Carga trifásica
+- Línea trifásica
+- Ejercicio 9-4
+- Monofásico equivalente estrella-estrella
+- Ejercicios 9-6, 9-7, 9-8
+Para el próximo día
+- Ejercicio 9-5
+
+24/11/25
+Material cubierto
+- Corregimos 8-21
+- Alternador trifásico
+- Ejercicio 9-3
+Para el próximo día
+- Ejercicios 9-1, 9-2 (resolver con Matlab)
+
+20/11/25
+Material cubierto
+- Comentamos 8-16 y 8-18
+- Resolvemos 8-17, 8-19
+- Comentamos 8-22
+- Teorema máxima transferencia de potencia
+- Ejercicio 8-24
+- Comentamos 8-25, 8-26, 8-27, 8-28, 8-29
+Para el próximo día
+- Todos los ejercicios del tema 8
+
+18/11/25
+Material cubierto
+- Ejercicios 8-10, 8-11
+- Medida de potencia 
+- Ejercicio 8-14
+Para el próximo día
+- Ejercicios 8-12, 8-13, 8-16, 8-18
+
+17/11/25
+Material cubierto
+- Comentamos resultados 8-3 y 8-4
+- Obtener impedancia con datos de potencia
+- Ejercicio 8-5
+- Teorema Boucherot
+- Corrección del factor de potencia
+- Ejercicio 8-7 y 8-8
+Para el próximo día
+- Ejercicio 8-6, 8-9
+
+13/11/25
+Material cubierto
+- Potencia compleja, reactiva y aparente
+- Factor de potencia
+- Ejercicios 8-1, 8-2
+Para el próximo día
+- Ejercicios 8-3, 8-4
+
+11/11/25
+Material cubierto
+- Ejercicios 7-8, 7-24, 7-29
+- Potencia instantánea y potencia media en alterna
+
+10/11/25
+Material cubierto
+- Ejercicios 7-27 y 7-28
+Para el próximo día
+- Todos los ejercicios del tema 7
+
+6/11/25
+Material cubierto
+- Reducción impedancia en transformador ideal
+- Ejercicio 7-20
+- Diagrama fasorial
+- Ejercicios 7-22, 7-23, 7-25
+Para el próximo día
+- Ejercicios 7-21
+
+4/11/25
+Material cubierto
+- Teorema superposicion alterna
+- Ejercicio 7-13
+- Teorema Thevenin-Norton alterna
+- Ejercicio 7-15
+- Bobinas acopladas en alterna
+- Ejercicio 7-17, 7-18
+Para el próximo día
+- Ejercicios 7-14, 7-16, 7-19
+
+3/11/25
+Material cubierto
+- Corregimos 7-4
+- Asociación de impedancias
+- Transformación de fuentes
+- Método de mallas en alterna
+- Ejercicios 7-9, 7-10
+- Método de nudos en alterna
+- Ejercicios 7-11, 7-12
+Para el próximo día
+- Ejercicios 7-5, 7-7, 7-8
+
+30/10/25
+Material cubierto
+- Corregimos 7-2
+- Impedancia compleja
+- Ejercicios 7-3, 7-4
+Para el próximo día
+- Ejercicios 7-3, 7-4
+
+28/10/25
+Material cubierto
+- Señal sinusoidal y concepto de fasor
+- Ejercicio 7-1 y 7-2
+Para el próximo día
+- Ejercicios 7-1, 7-2
+
+27/10/25
+Material cubierto
+- Potencia en bobinas acopladas
+- Transformador ideal
+- Ejercicio 6-10 y 6-11
+Para el próximo día
+- Ejercicios 6-6, 6-7, 6-9, 6-12
+
+23/10/25
+Material cubierto
+- Corregimos 6-4
+- Acoplamiento magnético, bobinas acopladas y terminales correspondientes.
+- Ejercicios 6-5, 6-8
+Para el próximo día
+- Ejercicios 6-6 y 6-7
+
 21/10/25
 Material cubierto
 - Parcial temas 1 al 5
