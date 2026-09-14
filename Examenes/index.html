@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exámenes Anteriores - Teoría de Circuitos</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #2c3e50;
+            --secondary-color: #3498db;
+            --accent-color: #e74c3c;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #ecf0f1;
+            color: #333;
+        }
+
+        header {
+            background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+            color: white;
+            padding: 2rem 0;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        header h1 {
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+
+        .container-main {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+
+        .exam-item {
+            background: white;
+            padding: 1rem;
+            margin-bottom: 0.75rem;
+            border-radius: 6px;
+            border-left: 4px solid var(--secondary-color);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            transition: all 0.3s;
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .exam-item:hover {
+            background: #e7f3ff;
+            border-left-color: var(--accent-color);
+            text-decoration: none;
+            color: inherit;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+        }
+
+        .exam-info {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            flex: 1;
+        }
+
+        .exam-info i {
+            font-size: 1.5rem;
+            color: var(--secondary-color);
+            min-width: 24px;
+        }
+
+        .exam-info strong {
+            display: block;
+            color: var(--primary-color);
+            font-size: 1rem;
+        }
+
+        .download-btn {
+            background-color: var(--secondary-color);
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+            text-decoration: none;
+            transition: background-color 0.3s;
+            white-space: nowrap;
+            margin-left: 1rem;
+        }
+
+        .download-btn:hover {
+            background-color: var(--accent-color);
+            text-decoration: none;
+            color: white;
+        }
+
+        .back-link {
+            margin-bottom: 2rem;
+        }
+
+        .back-link a {
+            color: var(--secondary-color);
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        .back-link a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 768px) {
+            .exam-item {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .download-btn {
+                margin-left: 0;
+                margin-top: 1rem;
+                width: 100%;
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1><i class="fas fa-file-lines"></i> Exámenes Anteriores</h1>
+            <p style="margin: 0; opacity: 0.95;">Colección desde 2015 a 2026</p>
+        </div>
+    </header>
+
+    <main class="container-main">
+        <div class="back-link">
+            <a href="../"><i class="fas fa-arrow-left"></i> Volver a inicio</a>
+        </div>
+
+        <div style="background: white; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+            <h2 style="color: var(--primary-color); margin-bottom: 1.5rem;">
+                <i class="fas fa-graduation-cap"></i> Exámenes
+            </h2>
+            
+            <div id="exams-container">
+                <!-- Exams will be loaded here by JavaScript -->
+            </div>
+        </div>
+    </main>
+
+    <script>
+        // List of exam files
+        const exams = [
+            "FIE_2026_02.pdf",
+            "FIE_2026_02(sol).pdf",
+            "FIE_2026_01.pdf",
+            "FIE_2026_01(sol).pdf",
+            "FIE_2025_10.pdf",
+            "FIE_2025_10(sol).pdf",
+            "FIE_2025_02.pdf",
+            "FIE_2025_02(sol).pdf",
+            "FIE_2025_01.pdf",
+            "FIE_2025_01(sol).pdf",
+            "FIE_2024_11.pdf",
+            "FIE_2024_11(sol).pdf",
+            "FIE_2024_10.pdf",
+            "FIE_2024_10(sol).pdf",
+            "FIE_2024_06.pdf",
+            "FIE_2024_06(sol).pdf",
+            "FIE_2024_02.pdf",
+            "FIE_2024_02(sol).pdf",
+            "FIE_2024_01.pdf",
+            "FIE_2024_01(sol).pdf",
+            "FIE_2023_09.pdf",
+            "FIE_2023_09(sol).pdf",
+            "FIE_2023_02.pdf",
+            "FIE_2023_02(sol).pdf",
+            "FIE_2022_09.pdf",
+            "FIE_2022_02.pdf",
+            "FIE_2021_09.pdf",
+            "FIE_2020_02.pdf",
+            "FIE_2019_09.pdf",
+            "FIE_2019_02.pdf",
+            "FIE_2018_09.pdf",
+            "FIE_2018_02.pdf",
+            "FIE_2017_09.pdf",
+            "FIE_2017_02.pdf",
+            "FIE_2016_09.pdf",
+            "FIE_2016_02.pdf",
+            "FIE_2015_09.pdf",
+            "FIE_2015_02.pdf"
+        ];
+
+        const container = document.getElementById('exams-container');
+
+        exams.forEach(filename => {
+            const isSolution = filename.includes('(sol)');
+            const year = filename.split('_')[1];
+            const month = filename.split('_')[2].replace('.pdf', '').replace('(sol)', '');
+            
+            let monthName = '';
+            if (month === '01') monthName = 'Enero';
+            else if (month === '02') monthName = 'Febrero';
+            else if (month === '06') monthName = 'Junio';
+            else if (month === '09') monthName = 'Septiembre';
+            else if (month === '10') monthName = 'Octubre';
+            else if (month === '11') monthName = 'Noviembre';
+            
+            const label = isSolution ? `${monthName} ${year} - Soluciones` : `${monthName} ${year}`;
+            const icon = isSolution ? 'fa-check-circle' : 'fa-file-pdf';
+            
+            const examElement = document.createElement('a');
+            examElement.href = filename;
+            examElement.download = filename;
+            examElement.className = 'exam-item';
+            examElement.innerHTML = `
+                <div class="exam-info">
+                    <i class="fas ${icon}"></i>
+                    <strong>${label}</strong>
+                </div>
+                <span class="download-btn">
+                    <i class="fas fa-download"></i> Descargar
+                </span>
+            `;
+            
+            container.appendChild(examElement);
+        });
+    </script>
+</body>
+</html>
