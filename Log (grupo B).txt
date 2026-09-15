@@ -1,13 +1,13 @@
-11/09/25
+15/09/25
 Material cubierto
 - Presentación de la asignatura
 - Conceptos tensión e intensidad
 - Leyes de Kirchhoff
-- Ejercicio 1-1 (apartados a-e)
+- Ejercicio 1-1
+- Potencia y energía
 Para el próximo día
-- Hacer cuenta en la aplicación
-- Ejercicios 1-1 (apartados a-e)
-
+- Hacer cuenta en la aplicación problemasie.uma.es
+- Ejercicios 1-1, 1-2, 1-3, 1-4
 
 
 
