@@ -8,7 +8,23 @@ Material cubierto
 Para el próximo día
 - Hacer cuenta en la aplicación problemasie.uma.es
 - Ejercicios 1-1, 1-2, 1-3, 1-4
-
+18/09/26
+- Corregimos 1-2 y 1-3
+- Ley de Ohm
+- Ejercicios 2-1, 2-2, 2-3
+- Resistencias serie, divisor tensión
+- Resistencias paralelo, divisor intensidad
+Para el próximo día
+- Ejercicios 2-1, 2-2, 2-3
+22/09/2026
+Material cubierto
+- Ejercicios 2-4, 2-5
+- Fuentes de tensión e intensidad
+- Ejercicios 2-6, 2-7, 2-8, 2-9, 2-10
+- Transformación estrella-triángulo
+- Ejercicios 3-1, 3-2
+Para el próximo día
+- Terminar ejercicios 2-11, 2-12, 3-1, 3-2
 
 
 
