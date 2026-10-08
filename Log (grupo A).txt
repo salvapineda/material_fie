@@ -74,6 +74,11 @@ Material cubierto
 - Teorema de superposición con fuentes dependientes no se cubre en esta asignatura
 Para el próximo día
 - Terminar ejercicios de superposición
+07/10/26
+Material cubierto
+- Teorema de Thevenin
+- Ejercicios 5-9, 5-10, 5-11, 5-12
+- Relevos nudos y mallas
 
 
 

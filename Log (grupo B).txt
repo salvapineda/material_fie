@@ -70,6 +70,14 @@ Material cubierto
 - Relevos nudos/mallas
 Para el próximo día
 - Terminar ejercicio 5-5
+08/10/26
+Material cubierto
+- Ejercicio 5-4
+- Teorema de superposición con fuentes dependientes no se cubre en esta asignatura
+- Teorema de Thevenin
+- Ejercicios 5-9, 5-10, 5-11, 5-12
+- Teorema de Norton
+- Ejercicios 5-13, 5-14
 
 
 
