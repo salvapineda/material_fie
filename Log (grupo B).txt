@@ -85,7 +85,7 @@ Material cubierto
 - Ejercicio 5-21
 Para el próximo día
 - Todos los ejercicios del tema 5
-14/10/26
+13/10/26
 - Corregimos ejercicios 5-17, 5-25, 5-26, 5-27
 - Bobina
 - Ejercicios 6-1, 6-2
