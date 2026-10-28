@@ -105,6 +105,23 @@ Para el próximo día
 22/10/26
 - Fasor e impedancia
 - Ejercicios 7-1 y 7-2
+26/10/26
+- Ejercicios 7-3, 7-4, 7-5
+- Teoría tema 6
+27/10/26
+- Impedancias en serie, paralelo
+- Divisor de tensión e intensidad en alterna
+- Ejercicio 7-6
+- Transoformación de fuentes en alterna
+- Mallas y nudos en alterna
+- Ejercicio 7-9, 7-10, 7-11, 7-12
+- Superposición en alterna
+- Ejercicio 7-13
+- Thevening y Norton en alterna
+- Ejercicio 7-15
+- Bobinas acopladas en alterna
+- Ejercicio 7-17
+- Para casa ejercicios 7-7, 7-8, 7-14, 7-16
 
 
 
