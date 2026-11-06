@@ -152,6 +152,10 @@
     <script>
         // List of exam files
         const exams = [
+            "FIE_2026_10_A.pdf",
+            "FIE_2026_10_A(sol).pdf",
+            "FIE_2026_10_B.pdf",
+            "FIE_2026_10_B(sol).pdf",
             "FIE_2026_02.pdf",
             "FIE_2026_02(sol).pdf",
             "FIE_2026_01.pdf",
@@ -195,9 +199,11 @@
         const container = document.getElementById('exams-container');
 
         exams.forEach(filename => {
-            const isSolution = filename.includes('(sol)');
-            const year = filename.split('_')[1];
-            const month = filename.split('_')[2].replace('.pdf', '').replace('(sol)', '');
+            const match = filename.match(/^FIE_(\d{4})_(\d{2})(?:_([AB]))?(\(sol\))?\.pdf$/);
+            const isSolution = Boolean(match[4]);
+            const year = match[1];
+            const month = match[2];
+            const group = match[3];
             
             let monthName = '';
             if (month === '01') monthName = 'Enero';
@@ -207,7 +213,10 @@
             else if (month === '10') monthName = 'Octubre';
             else if (month === '11') monthName = 'Noviembre';
             
-            const label = isSolution ? `${monthName} ${year} - Soluciones` : `${monthName} ${year}`;
+            const groupLabel = group ? ` - Grupo ${group}` : '';
+            const label = isSolution
+                ? `${monthName} ${year}${groupLabel} - Soluciones`
+                : `${monthName} ${year}${groupLabel}`;
             const icon = isSolution ? 'fa-check-circle' : 'fa-file-pdf';
             
             const examElement = document.createElement('a');
