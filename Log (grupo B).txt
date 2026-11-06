@@ -132,6 +132,13 @@ Para el próximo día
 3/11/26
 - Ejercicios 7-24, 7-26, 7-28, 7-29
 - Potencia en alterna (instantánea, activa, reactiva, aparente y compleja)
+5/11/26
+- Ejercicios 8-1, 8-2
+- Factor de Potencia
+6/11/26
+- Ejercicios 8-3, 8-4, 8-5, 8-6
+- Teorema de Boucherot
+
 
 
 
