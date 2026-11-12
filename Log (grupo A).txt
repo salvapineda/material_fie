@@ -136,6 +136,11 @@ Para el próximo día
 6/11/26
 - Ejercicios 8-1, 8-2, 8-3, 8-4
 - Factor de potencia
+9/11/26
+- Ejercicios 8-5, 8-6
+- Teorema Boucherot
+- Correccion factor potencia
+- Ejercicios 8-7, 8-8
 
 
 
