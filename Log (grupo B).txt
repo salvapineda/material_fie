@@ -151,6 +151,11 @@ Para el próximo día
 - Máxima potencia en alterna
 - Ejercicio 8-24
 - Comentamos ejercicios 8-26, 8-27, 8-28, 8-29
+17/11/26
+- Segundo Parcial
+19/11/26
+- Generador, carga y línea trifásica
+- Ejercicios 9-1, 9-2, 9-3, 9-4
 
 
 
