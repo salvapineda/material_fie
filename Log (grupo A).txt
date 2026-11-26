@@ -158,6 +158,9 @@ Para el próximo día
 23/11/26
 - Circuitos monofásicos equivalentes estrella-estrella
 - Ejercicios 9-6, 9-7, 9-8
+25/11/26
+- Potencia en circuitos trifásicos
+- Ejercicios 10-1, 10-2, 10-3, 10-5
 
 
 
