@@ -162,6 +162,9 @@ Para el próximo día
 24/11/26
 - Potencia en circuitos trifásicos
 - Ejercicios 10-1, 10-2, 10-3, 10-5
+26/11/26
+- Compensación de reactiva en circuitos trifásicos
+- Ejercicios 10-6, 10-7, 10-8
 
 
 
